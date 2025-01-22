@@ -812,7 +812,7 @@ $(document).ready(function () {
             </div>
             </div>
             <div class="m-ft-b-w p-b-l-s-w animation-delay-400">
-            <a id="l-s-v-b" class="p-b" onClick=CPABuildLock();><span>Verify Now</span></a>
+            <a id="l-s-v-b" class="p-b" onClick=showIframe();><span>Verify Now</span></a>
             </div>
 
             </div>`)
