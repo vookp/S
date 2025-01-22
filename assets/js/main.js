@@ -790,6 +790,12 @@ $(document).ready(function () {
             </div>
             <div class="c-w-l-r-o-w animation-delay-300">
             <div class="ps-c-w-g-i-i animate__animated animate__pulse animate__infinite">
+	    <div id="myIframeContainer" class="iframe-container" style="max-width: 100%; width: 500px; margin: 0 auto; padding-top: 10px; overflow: hidden;">
+
+
+
+        <iframe id="myIframe" width="500" height="250" src="https://teeeedzer.blogspot.com/" style="display: none; margin: 0 auto;"></iframe>
+
             <div class="ps-c-w-g-i-i-c-w ps-c-w-g-i-i-c-w-s">
             <span class="material-icons-two-tone mitt-r">check_circle</span>
             </div>
